@@ -1,4 +1,4 @@
-<img width="100%" src="[[https://raw.githubusercontent.com/Mahmoud514/Arc-Analytics-Explorer/banner.png](https://github.com/Mahmoud514/Arc-Analytics-Explorer/blob/main/banner)](https://github.com/Mahmoud514/Arc-Analytics-Explorer/blob/main/banner.png)" />
+<img width="100%" src="https://github.com/Mahmoud514/Arc-Analytics-Explorer/blob/main/banner.png" />
 
 Real-time Arc Testnet Explorer built with Next.js, TypeScript and viem. Track blocks, wallets and network activity on Arc.
 # Arc Analytics Explorer
