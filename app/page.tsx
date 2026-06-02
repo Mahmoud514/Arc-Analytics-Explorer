@@ -38,7 +38,7 @@ const blocks = [];
 
 for (
   let i = latestBlockNumber;
-  i > latestBlockNumber - 5n;
+  i > latestBlockNumber - BigInt(5);
   i--
 ) {
   const block = await arcClient.getBlock({
@@ -61,7 +61,7 @@ const wallets = new Set<string>();
 
 for (
   let i = latestBlockNumber;
-  i > latestBlockNumber - 50n;
+  i > latestBlockNumber - BigInt(50);
   i--
 ) {
   const block = await arcClient.getBlock({
