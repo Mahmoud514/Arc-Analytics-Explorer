@@ -18,14 +18,6 @@ export const metadata = {
     "Real-time blockchain analytics dashboard for Arc Testnet.",
 };
 
-export const metadata = {
-  title: "Arc Analytics Explorer",
-  description: "Real-time Arc Testnet Analytics",
-  icons: {
-    icon: "/banner.png",
-  },
-};
-
 export default function RootLayout({
   children,
 }: Readonly<{
